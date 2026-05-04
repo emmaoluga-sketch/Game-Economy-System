@@ -34,3 +34,38 @@ This system is structured using a modular architecture:
 ---
 
 ## 🧱 Architecture
+
+
+---
+
+## 🔐 Security
+
+- Server-side validation for all transactions
+- Prevents currency duplication exploits
+- Trade verification system
+- Error handling using `pcall`
+
+---
+
+## ⚙️ Setup
+
+See `docs/setup.md`
+
+---
+
+## 📂 Folder Structure
+
+See `docs/architecture.md`
+
+---
+
+## 📬 Contact
+
+- Discord: [Your Discord]
+- Roblox: [Your Profile]
+
+---
+
+## ⭐ Why this project?
+
+This project demonstrates my ability to build scalable backend systems for Roblox games, focusing on clean architecture, security, and maintainability.
